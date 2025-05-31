@@ -1,0 +1,12 @@
+tensorflow
+numpy
+keras
+streamlit
+opencv-python
+matplotlib
+scikit-learn
+flask
+
+
+run in terminal for output:
+python -m streamlit run main.py
