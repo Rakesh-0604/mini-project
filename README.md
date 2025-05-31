@@ -7,10 +7,18 @@ This project is a leaf disease detection system that uses deep learning techniqu
 
 To use the model for leaf disease detection, follow these steps:
 
-1. Make sure you have a Python environment set up with the necessary libraries installed. You can use the provided requirements.txt file to install required libraries
+1. Install required libraries.
+    tensorflow
+    numpy
+    keras
+    streamlit
+    opencv-python
+   matplotlib
+   scikit-learn
+   flask
 
 
-2. Run main.py
+3. Run main.py
 
 ```
 python -m streamlit run main.py
